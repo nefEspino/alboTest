@@ -6,7 +6,11 @@ import java.util.List;
 import lombok.Data;
 import lombok.ToString;
 
-
+/**
+ * 
+ * @author Neftaly Espino Viveros
+ *
+ */
 @Data
 @ToString
 public class CharactersResponse extends ApiResponse{

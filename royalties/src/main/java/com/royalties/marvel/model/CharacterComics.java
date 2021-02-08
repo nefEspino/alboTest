@@ -5,10 +5,12 @@ import java.util.List;
 
 import org.springframework.data.annotation.Id;
 
-import com.fasterxml.jackson.databind.JsonNode;
-
 import lombok.Data;
 
+/**
+ * 
+ * @author Neftaly Espino Viveros
+ */
 @Data
 public class CharacterComics {
 	@Id
@@ -35,5 +37,11 @@ public class CharacterComics {
         CharacterComics c = (CharacterComics) o; 
           
         return this.getCharacter().equals(c.getCharacter());
+    } 
+	
+	@Override
+    public int hashCode() {
+        // TODO Auto-generated method stub
+        return character.hashCode();
     } 
 }

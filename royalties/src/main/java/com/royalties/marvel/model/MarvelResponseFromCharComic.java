@@ -5,6 +5,11 @@ import com.fasterxml.jackson.databind.JsonNode;
 
 import lombok.Data;
 
+/**
+ * 
+ * @author Neftaly Espino Viveros
+ *
+ */
 @Data
 public class MarvelResponseFromCharComic{
 	

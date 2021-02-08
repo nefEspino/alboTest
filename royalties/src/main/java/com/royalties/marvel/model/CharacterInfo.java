@@ -11,7 +11,11 @@ import org.springframework.format.annotation.DateTimeFormat;
 import lombok.Data;
 import lombok.ToString;
 
-
+/**
+ * 
+ * @author Neftaly Espino Viveros
+ *
+ */
 @Data
 @ToString
 @Document(collection = "CharacterInfo")
