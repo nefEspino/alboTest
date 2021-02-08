@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "api.royalties.character.capamerica",
+    "type": "java.lang.String",
+    "description": "A description for 'api.royalties.character.capamerica'"
+  },
+  {
+    "name": "api.royalties.character.ironman",
+    "type": "java.lang.String",
+    "description": "A description for 'api.royalties.character.ironman'"
+  },
+  {
+    "name": "api.marvel.credentials.url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.credentials.url'"
+  },
+  {
+    "name": "api.marvel.credentials.hash",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.credentials.hash'"
+  },
+  {
+    "name": "api.marvel.credentials.ts",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.credentials.ts'"
+  },
+  {
+    "name": "api.marvel.credentials.resultspage",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.credentials.resultspage'"
+  },
+  {
+    "name": "api.marvel.credentials.publickey",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.credentials.publickey'"
+  },
+  {
+    "name": "api.marvel.credentials.privatekey",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.credentials.privatekey'"
+  },
+  {
+    "name": "api.marvel.url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.url'"
+  },
+  {
+    "name": "api.marvel.url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.url'"
+  },
+  {
+    "name": "api.marvel.resultspage",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.resultspage'"
+  },
+  {
+    "name": "api.marvel.ts",
+    "type": "java.lang.String",
+    "description": "A description for 'api.marvel.ts'"
+  },
+  {
+    "name": "api.royalties.datarefresh.seconds",
+    "type": "java.lang.String",
+    "description": "A description for 'api.royalties.datarefresh.seconds'"
+  }
+]}
